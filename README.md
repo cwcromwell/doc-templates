@@ -6,13 +6,14 @@ This repo contains templates that will make it easier to get started with softwa
 
 Here are some reasons to use a template if you're an engineer: 
 
-* Other people have already figured out which documents you should create to meet the minimum requirements of your users. You can benefit from community knowledge and save a lot of time.
+* Other people have already figured out which documents you should create to meet the minimum requirements of your users. You can benefit from that knowledge without investing the same amount of time (years) required for others to learn it.
 * The templates also tell you _what content_ each document should contain, and in some cases explain why.
-* You will save a lot of time, because you can outsource the design of your docset and focus on writing the technical details about how your API works.
-* If you follow the simple recipe that I and many others have arrived at, you'll produce documentation that gets the right results: 
-   - time saved for your end users, both in learning your tool and in getting tasks completed
-   - reduced frustration
-   - faster and easier adoption of your software
+* It will be easier. (Of course.)
+* Your docs will get written faster, because you can focus on explaining how your product works.
+* If you follow the simple outline that many others have arrived at, your customers will benefit by: 
+   - time saved, both in learning your product and in getting tasks completed
+   - greatly reduced frustration
+   - faster and easier adoption
 
 (These templates can also be helpful in many ways if you're a technical writer, but I'll save that unordered list for another day.)
 
