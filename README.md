@@ -1,6 +1,9 @@
 # doc-templates
 Templates for creating API documentation.
 
+## Current Status 
+The templates are still under construction. Check back soon. 
+
 ## About This Project
 This repo contains templates that will make it easier to get started with software documentation. I noticed that software engineers often have questions about what kind of document to produce when they turn up at Write The Docs events. When they start to create docs, they want to know the simplest way to get the task done and have some useful documentation. If that sounds familiar, keep reading. 
 
