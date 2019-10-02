@@ -20,7 +20,7 @@ Here are some reasons to use a template if you're a software engineer:
    - greatly reduced frustration
    - faster and easier adoption
 
-(These templates can also be helpful in many ways if you're a technical writer, but I'll save that list for another day.)
+(These templates can also be helpful if you're a technical writer.)
 
 If you are a software engineer and you need additional help to get going with these (like suggested workflows or a better explanation of how to use the templates) please let me know what additional help you need by opening an issue. 
 
