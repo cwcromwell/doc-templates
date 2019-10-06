@@ -7,7 +7,7 @@ The templates are still under construction. Check back soon.
 ## About This Project
 This repo contains templates that will make it easier to get started with software documentation. 
 
-**This is not the only place to get templates. I create these primarily to contribute to larger projects. (I will add links when they become available elsewhere.)**
+**This is not the only place to get templates. I create these primarily to contribute to larger projects. (I will add links as content becomes available elsewhere.)**
 
 Here are some reasons to use a template if you're a software engineer: 
 
@@ -26,7 +26,7 @@ If you are a software engineer and you need additional help to get going with th
 
 In the meantime, help yourself. 
 
-## The Full Set of Templates
+## The Templates
 
 The current set of templates describes the documentation required for an API. Here's a list of those guides, and some more information about each. 
 
