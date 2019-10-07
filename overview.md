@@ -2,31 +2,21 @@
 
 ## Summary of the Overview template
 
-### When do I need an overview?
+### When Do I Need an Overview?
 
-to be completed
+Every document set should include an overview. This document tells potential users or buyers of the product the things they might want to know before adoption. 
+
+Many users install or plug into your service immediately because they are already familiar with it or someone else has decided that the team will use this solution. All of those people will go to your Quickstart, or will just get to work. 
+
+There are other groups, however, who need to assess your product in order to decide whether they want to use it. They are either the managers responsible for a business decision, or they are engineers who don't know enough about your product to decide whether it can accomplish what they want it to do. People who fall in either of these groups might decide not adopt your product unless you provide an overview that answers their questions.  
+
+## Content of Your Overview 
 
 ### Who is this overview for?
 
-to be completed
-
-### When and why does one need to use this document? (What justifies it as a critical document in the minimum viable doc set?)
-
-to be completed
-
-## The Template: What to Include in Your Overview
-
-### metadata
-
-* <Your Product name>
-* <The full name of this guide (such as, "XYZ Product Overview")>
-* <Version number (Generally the same version number as the product, to avoid confusion)>
-* <Date of last update>
-
-### Prerequisites
-
-* <What knowledge does one need before beginning?>
-* <What this Overview will help the reader accomplish or decide>
+* Are you writing only for developers? For managers?
+* Are you writing only for people who have a certain problem to solve?
+* Is it intended for a particular industry.
 
 ### Body of the Overview 
 
@@ -35,31 +25,25 @@ Contains information that helps the developer or decision-maker get oriented to 
  * What is it supposed to do? (What problem does it solve, and for whom)
  * What exact capabilities are available to the user? What services does it offer?
  * What does it NOT do that developers should know about?
+ * What are the typical use cases?
+ * How does it work? (What do users need to know about architecture an internal components?)
  * What dependencies does the developer need to know about before installing?
  * What technical requirements? Including development environment and licensing.
  * What knowledge prerequisites does the developer need to know about before using the API?
- * How does one get started using the API?
- * How does one incorporate the code into ones programs?
-    
-### Other information
-
-* A link to Setup documentation 
-* A link to the Quickstart of the product
-* A link to the Reference for the product
 
 ### postrequisites 
 
-* What comes next?
+* What comes next? Do you want to direct users to the quickstart, to try it out?
+* How does one get started using the API?
 
 ## More information
 
-### Here are some links to other overviews that we think are worth looking at. 
+### Overviews Worth Checking Out
 
-to be completed
+* **Chrome Native Client**. This overview explains and engine that allows C++ to run in the browser, including why it is a good solution for engineers who want to rework a desktop app and make it usable as a web app. 
+https://developer.chrome.com/native-client/overview
 
-## Here are some links to further reading (Links and bibliographic citations that support this document.)
-
-to be completed
+* **The Jira Platform**. This overview does a good job of explaining multiple products and the associated use cases, uses, third-party integrations, hosting options, and licensing. https://www.atlassian.com/software/jira/guides/getting-started/overview#about-the-jira-platform
 
 
 
