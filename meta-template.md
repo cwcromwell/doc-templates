@@ -1,9 +1,8 @@
 # The Meta-Template
 
-
 This is the outline for creating new templates. 
 
-It's mainly for the owner and potential contributors to this repo. But contact me by opening an issue before you attempt a pull request. (I'm creating these to contribute to other projects, so you might want to go directly to those with your contributions.)
+It's mainly for the owner and potential contributors to this repo. But contact me by opening an issue before you attempt a pull request. (I'm creating these to contribute to other projects, so you might want to go directly to those projects and offer your contributions.)
 
 
 ## Template summary 
