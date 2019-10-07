@@ -1,7 +1,5 @@
 # The Overview
 
-## Summary of the Overview template
-
 ### When Do I Need an Overview?
 
 Every document set should include an overview. This document tells potential users or buyers of the product the things they might want to know before adoption. 
@@ -12,7 +10,7 @@ There are other groups, however, who need to assess your product in order to dec
 
 ## Content of Your Overview 
 
-### Who is this overview for?
+### Who is This Overview For?
 
 * Are you writing only for developers? For managers?
 * Are you writing only for people who have a certain problem to solve?
@@ -31,14 +29,14 @@ Contains information that helps the developer or decision-maker get oriented to 
  * What technical requirements? Including development environment and licensing.
  * What knowledge prerequisites does the developer need to know about before using the API?
 
-### postrequisites 
+### Postrequisites 
 
 * What comes next? Do you want to direct users to the quickstart, to try it out?
 * How does one get started using the API?
 
-## More information
+## More Information
 
-### Overviews Worth Checking Out
+### Overview Examples
 
 * **Chrome Native Client**. This overview explains and engine that allows C++ to run in the browser, including why it is a good solution for engineers who want to rework a desktop app and make it usable as a web app. 
 https://developer.chrome.com/native-client/overview
