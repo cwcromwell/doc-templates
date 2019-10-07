@@ -14,13 +14,6 @@ It's mainly for the owner and potential contributors to this repo. But contact m
 
 ## Contents 
 
-### Guide metadata
-
-* Product name
-* The full name of this guide 
-* Version number (Generally the same version number as the product)
-* Date of last update
-
 ### Prerequisites
 
 What knowledge do I need before I begin?
@@ -32,12 +25,6 @@ Where to get tokens or API keys, etc. if needed
 
 <depends on the document type>
 
-### Other information
-
-A link to Setup documentation 
-A link to the Overview of the product
-
-
 ### postrequisites 
 
 * What comes next?
@@ -47,3 +34,11 @@ A link to the Overview of the product
 * Links to good examples
 * Further reading (Links and bibliographic citations that support this document.)
 
+-----
+
+This template was the predecessor to one that is under construction at The Good Docs Project: 
+https://github.com/thegooddocsproject
+
+Their template will be slightly longer than this one, and you should go to their repo to see all the details. 
+
+Find out more about the project at: https://thegooddocsproject.dev/
