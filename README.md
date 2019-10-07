@@ -2,7 +2,7 @@
 Templates for creating API documentation.
 
 ## Current Status 
-The templates are still under construction. Check back soon. 
+Some templates are developed enough to use. The Reference template is still a work in progress. The setup template doesn't exist yet. 
 
 ## About This Project
 This repo contains templates that will make it easier to get started with software documentation. 
