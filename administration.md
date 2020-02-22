@@ -41,9 +41,9 @@ Both of these schemes will make it difficult for users to find features. They mi
 
 Links to examples: 
 
-[Atlassian](https://confluence.atlassian.com/crowd/administration-guide-16482404.html)
-[Mattermost](https://docs.mattermost.com/guides/administrator.html)
-[jamf](https://docs.jamf.com/jamf-connect/1.17.0/administrator-guide/About_this_Guide.html)
-[Intel ASM Administrator Guide](https://www.intel.com/content/dam/support/us/en/documents/memory-and-storage/ssd-software/ASM-Win.pdf)
+* [Atlassian](https://confluence.atlassian.com/crowd/administration-guide-16482404.html)
+* [Mattermost](https://docs.mattermost.com/guides/administrator.html)
+* [jamf](https://docs.jamf.com/jamf-connect/1.17.0/administrator-guide/About_this_Guide.html)
+* [Intel ASM Administrator Guide](https://www.intel.com/content/dam/support/us/en/documents/memory-and-storage/ssd-software/ASM-Win.pdf)
 
 
