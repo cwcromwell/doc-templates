@@ -1,0 +1,21 @@
+User Guide Recipe
+
+The user guide is often more like a recipe, a collection of multiple templates and even other guides. It tends to be a complex document, because users expect it to comtain everything a user (as opposed to an admin) might want.
+
+1.) Guides
+The user guide can contain these documents as chapters:
+Overview
+Quickstart/Getting started
+Installation
+
+2.) How-to articles
+The user guide covers most of the tasks a user of the software would need to perform. Most of the guide is a collection of how-to articles. It should be organized by the task the user wants to complete, not according to the functions of the software.
+
+3.) Other important topics
+User guide usually covers a series of ANCILLARY things the user needs to think about: 
+Authentication
+Setting up and changing an account
+managing groups
+How to get help from support
+troubleshooting
+Reference (CLI usage, )
