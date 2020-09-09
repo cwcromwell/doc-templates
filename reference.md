@@ -1,5 +1,3 @@
-**This template is still a work in progress. **
-
 # Reference Section
 
 ## About the Reference Section 
@@ -42,7 +40,7 @@ These have to be covered someplace in your documentation. They are sometimes inc
 * Error-handling. Make sure users can find an explanation for any error code they might receive. 
 * Throttling. (Limiting the number of requests a user can make within a period of time.)
 
-## Best Practics
+## Best Practices
 
 If more than one endpoint or parameter can get the job done, explain which one pertains to which situation. (Each probably exists for a specific reason, but the user needs to know.)
 
