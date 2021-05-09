@@ -23,6 +23,7 @@ Each reference listing should contain:
 ### More about the Parameters 
 
 Each detailed reference entry should contain all the information a user might need to know when using a parameter (attributer), whether that parameter is part of the request or the response.
+If a parameter is accepted by the endpoint, it should be listed -- the api will be difficult to understand if usable parameters are missing.
 
 Include these: 
 
@@ -47,6 +48,8 @@ If more than one endpoint or parameter can get the job done, explain which one p
 Each reference entry should include both a syntax and a working example. 
 
 Example code should be followed by extensive comments that explain how it works. Some users get started by playing with the example code and they'll get frustrated if they cannot make it work. For them, the example should be followed by brief instructions about which parts of the code they need to replace with their own authentication keys and user ids. They need warnings about common errors that will prevent the request from working. 
+
+Structure the information in a consistent way for all endpoints. Include every parameter, but also list them the same way, for example in alphabetical order or in the order they are used in the request or response. 
 
 ## Examples
 
