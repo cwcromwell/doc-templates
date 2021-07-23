@@ -30,8 +30,10 @@ Include these:
    * Description of what the parameter does 
    * When and why would the user need to use the attribute
    * The data type
-   * All the acceptable values, if there is a limited set of options
-   * Whether the parameter is required or optional (This goes for response attributes as well. Are they always returned, or only sometimes?)
+   * All the acceptable values, if there is a limited set of options (for example, a value might be limited to True/False; or you might have a unique parameter that requires users to choose between `[hi | medium | low]` or `[ DES | AES | RSA ]`. Remember to explain the options.
+   * Whether every parameter is required or optional. It can be frustrating to try to make the API call when you're not sure which attributes are essential for the request to be processed. (This goes for response attributes as well. Are they always returned, or only sometimes?)
+   * On a similar note, make sure users know when an attribute is not to be included. Suppose that providing an account id when creating a new account would cause the request to error out. Let users know that they don't need the attribute by showing an example request that doesn't include the id. It's helpful to show only the attributes that are necessary for the request and that are likely to be used, especially if the request object is large. 
+  
 
 ### Special Reference Topics
 
