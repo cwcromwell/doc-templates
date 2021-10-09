@@ -22,7 +22,7 @@ Each reference listing should contain:
 
 ### More about the Parameters 
 
-Each detailed reference entry should contain all the information a user might need to know when using a parameter (attributer), whether that parameter is part of the request or the response.
+Each detailed reference entry should contain all the information a user might need to know when using a parameter (attribute), whether that parameter is part of the request or the response.
 If a parameter is accepted by the endpoint, it should be listed -- the api will be difficult to understand if usable parameters are missing.
 
 Include these: 
