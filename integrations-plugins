@@ -1,0 +1,16 @@
+An integration (or plug-in) is a bit of code provided to a cloud service (GitHub action, GitLab runners, Jenkins, etc.) so that customers of tha service can easily deploy the plug in and run your software in an automated way, often without having to write a script. 
+
+When writing integrations docs, include the following sections: 
+
+1.) Intro/overview 
+
+   * What does it do.
+   * What requirements must be met inorder to use it (including software versions, role and permissions allowed to use the plug-in, etc.)
+   * What is the basic workflow for download and installation (Ordered list of steps for high-level understanding. Not the complete instructions)
+   * What is the basic workflow for configuration. (Ordered list of steps for high-level understanding. Not the complete instructions)
+
+2.) How to download and install 
+3.) How to configure the plug-in
+4.) 
+   
+
