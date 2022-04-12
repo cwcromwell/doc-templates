@@ -5,12 +5,13 @@ When writing integrations docs, include the following sections:
 1.) Intro/overview 
 
    * What does it do.
-   * What requirements must be met inorder to use it (including software versions, role and permissions allowed to use the plug-in, etc.)
    * What is the basic workflow for download and installation (Ordered list of steps for high-level understanding. Not the complete instructions)
    * What is the basic workflow for configuration. (Ordered list of steps for high-level understanding. Not the complete instructions)
-
 2.) How to download and install 
 3.) How to configure the plug-in
-4.) 
-   
+4.) Reference topics
+   * error messages, if applicable
+   * config file schema (if applicable)
+   * support and compatibility. What requirements must be met in order to use it (including software versions, platform versions, roles and permissions allowed to use the plug-in, possession of access tokens, etc.)
+5.) Release notes
 
