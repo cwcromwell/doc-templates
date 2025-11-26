@@ -8,12 +8,18 @@ The API overview tells potential users the things they might want to know before
 
 Try to anticipate the questions that potential users will have about your product. Here are some general questions that are often applicable.
 
+ * Are there any knowledge prerequisites?
+
  * What is it supposed to do? (What problem does it solve, and for whom)
  * What exact capabilities are available to the user? What services does it offer?
  * What does it NOT do that developers should know about?
  * What are the typical use cases? (Who is using it to do what?)
- * How does it work? (Do users need to know about architecture of internal components? Do they need to know about open source platforms it is built on top of?)
- * Are there any knowledge prerequisites?
+ * How much work is it to implement the solution?
+ * How does it work? (Do users need to know about architecture of internal components? Do they need to know about open source platforms it is built on top of? Is it extensible?) 
+ * High level workflow. Describe the process, but not in too much detail. Subsequent chapters will cover the step-by-step actions for each part of the workflow. 
+ * Where to find documentation and other resources that are available. 
+
+
 
  Your users might have other questions that are specific to your product or to the industry you serve. The overview is a good place to enlist field engineers and Product Managers for additional perspective.
 
